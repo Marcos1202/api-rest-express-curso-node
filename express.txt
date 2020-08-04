@@ -1,0 +1,10 @@
+pasos de este proyecto 
+crear nuesytro proyecto
+npm init --yess
+//instalar express
+npm install express --save
+
+creando una variable de entorno
+set PORT = 5000
+
+***Usamos joi es un modulo, nos ayuda a hacer validaciones
